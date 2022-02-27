@@ -1,2 +1,4 @@
 # Mental_Health_Prediction_of_Instagram_Users
-Semester 5th minor project.
+Using Instagram posts, we proposed a machine learning approach to identify mental health of users. Detecting mental health based on social media platform can benefit many applications in public health and social welfare. Most research done in detecting mental health only focused on single-label classification. This project is based on multi-label classification of mental state of user. 
+
+We prepared a dataset with four major classifications of Instagram posts, each of Depressed, Happy, Angry and Fear. Our model studies the caption with photographic details used in posts and uses it to train in their respective models. Statistical features from Instagram photos include colour details and algorithmic face detection. Other features of the post that are likes count, followers count , follow count, post count , other image details and emoticons  are also considered in the model. We have used deep learning approach for text analysis and machine learning approach for photographic details extraction, image and text analysis.
